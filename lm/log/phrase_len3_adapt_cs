@@ -1,0 +1,197 @@
+2018-10-22 12:00:43,361 - tensorflow - INFO - vocabulary: 33850
+2018-10-22 12:02:22,033 - tensorflow - INFO - Epoch: 1 Learning rate: 1.000
+2018-10-22 12:02:23,547 - tensorflow - INFO - 0.000 perplexity: 29919.007 speed: 528 wps
+2018-10-22 12:02:50,972 - tensorflow - INFO - 0.100 perplexity: 1046.319 speed: 17734 wps
+2018-10-22 12:03:18,397 - tensorflow - INFO - 0.200 perplexity: 792.768 speed: 18196 wps
+2018-10-22 12:03:46,086 - tensorflow - INFO - 0.300 perplexity: 692.602 speed: 18298 wps
+2018-10-22 12:04:13,540 - tensorflow - INFO - 0.400 perplexity: 634.263 speed: 18388 wps
+2018-10-22 12:04:41,046 - tensorflow - INFO - 0.500 perplexity: 594.177 speed: 18436 wps
+2018-10-22 12:05:08,398 - tensorflow - INFO - 0.600 perplexity: 565.390 speed: 18485 wps
+2018-10-22 12:05:36,057 - tensorflow - INFO - 0.700 perplexity: 544.308 speed: 18490 wps
+2018-10-22 12:06:03,608 - tensorflow - INFO - 0.800 perplexity: 527.283 speed: 18504 wps
+2018-10-22 12:06:31,075 - tensorflow - INFO - 0.900 perplexity: 513.541 speed: 18521 wps
+2018-10-22 12:06:58,645 - tensorflow - INFO - 0.999 perplexity: 502.144 speed: 18527 wps
+2018-10-22 12:06:58,777 - tensorflow - INFO - Epoch: 1 Train Perplexity: 502.081
+2018-10-22 12:07:04,440 - tensorflow - INFO - Epoch: 1 Valid Perplexity: 570.657
+2018-10-22 12:07:04,442 - tensorflow - INFO - Epoch: 2 Learning rate: 1.000
+2018-10-22 12:07:04,486 - tensorflow - INFO - 0.000 perplexity: 451.027 speed: 18253 wps
+2018-10-22 12:07:31,853 - tensorflow - INFO - 0.100 perplexity: 403.490 speed: 18722 wps
+2018-10-22 12:07:59,491 - tensorflow - INFO - 0.200 perplexity: 399.799 speed: 18631 wps
+2018-10-22 12:08:27,018 - tensorflow - INFO - 0.300 perplexity: 397.799 speed: 18625 wps
+2018-10-22 12:08:54,631 - tensorflow - INFO - 0.400 perplexity: 395.608 speed: 18608 wps
+2018-10-22 12:09:22,170 - tensorflow - INFO - 0.500 perplexity: 393.969 speed: 18608 wps
+2018-10-22 12:09:49,613 - tensorflow - INFO - 0.600 perplexity: 391.854 speed: 18618 wps
+2018-10-22 12:10:17,208 - tensorflow - INFO - 0.700 perplexity: 390.772 speed: 18611 wps
+2018-10-22 12:10:44,874 - tensorflow - INFO - 0.800 perplexity: 389.528 speed: 18600 wps
+2018-10-22 12:11:12,498 - tensorflow - INFO - 0.900 perplexity: 388.179 speed: 18594 wps
+2018-10-22 12:11:40,152 - tensorflow - INFO - 0.999 perplexity: 386.896 speed: 18588 wps
+2018-10-22 12:11:40,282 - tensorflow - INFO - Epoch: 2 Train Perplexity: 386.880
+2018-10-22 12:11:45,654 - tensorflow - INFO - Epoch: 2 Valid Perplexity: 505.269
+2018-10-22 12:11:45,655 - tensorflow - INFO - Epoch: 3 Learning rate: 1.000
+2018-10-22 12:11:45,697 - tensorflow - INFO - 0.000 perplexity: 395.594 speed: 19140 wps
+2018-10-22 12:12:13,267 - tensorflow - INFO - 0.100 perplexity: 371.391 speed: 18587 wps
+2018-10-22 12:12:40,978 - tensorflow - INFO - 0.200 perplexity: 372.768 speed: 18539 wps
+2018-10-22 12:13:08,428 - tensorflow - INFO - 0.300 perplexity: 371.740 speed: 18581 wps
+2018-10-22 12:13:36,120 - tensorflow - INFO - 0.400 perplexity: 371.180 speed: 18562 wps
+2018-10-22 12:14:03,721 - tensorflow - INFO - 0.500 perplexity: 369.385 speed: 18562 wps
+2018-10-22 12:14:31,306 - tensorflow - INFO - 0.600 perplexity: 368.562 speed: 18564 wps
+2018-10-22 12:14:58,738 - tensorflow - INFO - 0.700 perplexity: 367.755 speed: 18581 wps
+2018-10-22 12:15:26,273 - tensorflow - INFO - 0.800 perplexity: 366.709 speed: 18584 wps
+2018-10-22 12:15:53,882 - tensorflow - INFO - 0.900 perplexity: 365.821 speed: 18581 wps
+2018-10-22 12:16:21,374 - tensorflow - INFO - 0.999 perplexity: 365.506 speed: 18587 wps
+2018-10-22 12:16:21,506 - tensorflow - INFO - Epoch: 3 Train Perplexity: 365.468
+2018-10-22 12:16:26,864 - tensorflow - INFO - Epoch: 3 Valid Perplexity: 512.050
+2018-10-22 12:16:28,657 - tensorflow - INFO - Model saved in path: save/phrase_len3_adapt_cs/model.ckpt-38454
+2018-10-22 12:16:28,658 - tensorflow - INFO - Epoch: 4 Learning rate: 1.000
+2018-10-22 12:16:28,701 - tensorflow - INFO - 0.000 perplexity: 390.972 speed: 18608 wps
+2018-10-22 12:16:56,207 - tensorflow - INFO - 0.100 perplexity: 359.601 speed: 18629 wps
+2018-10-22 12:17:23,625 - tensorflow - INFO - 0.200 perplexity: 359.963 speed: 18659 wps
+2018-10-22 12:17:50,541 - tensorflow - INFO - 0.300 perplexity: 359.497 speed: 18783 wps
+2018-10-22 12:18:17,658 - tensorflow - INFO - 0.400 perplexity: 358.386 speed: 18811 wps
+2018-10-22 12:18:44,527 - tensorflow - INFO - 0.500 perplexity: 357.742 speed: 18862 wps
+2018-10-22 12:19:11,212 - tensorflow - INFO - 0.600 perplexity: 357.102 speed: 18918 wps
+2018-10-22 12:19:37,882 - tensorflow - INFO - 0.700 perplexity: 356.723 speed: 18960 wps
+2018-10-22 12:20:04,703 - tensorflow - INFO - 0.800 perplexity: 356.263 speed: 18978 wps
+2018-10-22 12:20:31,368 - tensorflow - INFO - 0.900 perplexity: 355.591 speed: 19004 wps
+2018-10-22 12:20:58,370 - tensorflow - INFO - 0.999 perplexity: 355.052 speed: 19001 wps
+2018-10-22 12:20:58,492 - tensorflow - INFO - Epoch: 4 Train Perplexity: 355.036
+2018-10-22 12:21:03,707 - tensorflow - INFO - Epoch: 4 Valid Perplexity: 483.462
+2018-10-22 12:21:03,708 - tensorflow - INFO - Epoch: 5 Learning rate: 0.500
+2018-10-22 12:21:03,744 - tensorflow - INFO - 0.000 perplexity: 365.120 speed: 22254 wps
+2018-10-22 12:21:30,367 - tensorflow - INFO - 0.100 perplexity: 339.047 speed: 19251 wps
+2018-10-22 12:21:57,021 - tensorflow - INFO - 0.200 perplexity: 335.251 speed: 19237 wps
+2018-10-22 12:22:23,839 - tensorflow - INFO - 0.300 perplexity: 333.748 speed: 19194 wps
+2018-10-22 12:22:50,560 - tensorflow - INFO - 0.400 perplexity: 332.367 speed: 19189 wps
+2018-10-22 12:23:17,124 - tensorflow - INFO - 0.500 perplexity: 331.013 speed: 19209 wps
+2018-10-22 12:23:44,083 - tensorflow - INFO - 0.600 perplexity: 329.393 speed: 19175 wps
+2018-10-22 12:24:10,785 - tensorflow - INFO - 0.700 perplexity: 328.763 speed: 19177 wps
+2018-10-22 12:24:37,624 - tensorflow - INFO - 0.800 perplexity: 328.340 speed: 19166 wps
+2018-10-22 12:25:04,695 - tensorflow - INFO - 0.900 perplexity: 327.332 speed: 19140 wps
+2018-10-22 12:25:31,509 - tensorflow - INFO - 0.999 perplexity: 327.014 speed: 19137 wps
+2018-10-22 12:25:31,636 - tensorflow - INFO - Epoch: 5 Train Perplexity: 327.006
+2018-10-22 12:25:36,850 - tensorflow - INFO - Epoch: 5 Valid Perplexity: 450.130
+2018-10-22 12:25:36,852 - tensorflow - INFO - Epoch: 6 Learning rate: 0.250
+2018-10-22 12:25:36,895 - tensorflow - INFO - 0.000 perplexity: 362.236 speed: 18593 wps
+2018-10-22 12:26:03,878 - tensorflow - INFO - 0.100 perplexity: 315.147 speed: 18989 wps
+2018-10-22 12:26:30,746 - tensorflow - INFO - 0.200 perplexity: 315.189 speed: 19030 wps
+2018-10-22 12:26:57,501 - tensorflow - INFO - 0.300 perplexity: 314.101 speed: 19070 wps
+2018-10-22 12:27:24,332 - tensorflow - INFO - 0.400 perplexity: 312.922 speed: 19077 wps
+2018-10-22 12:27:51,974 - tensorflow - INFO - 0.500 perplexity: 312.788 speed: 18966 wps
+2018-10-22 12:28:19,702 - tensorflow - INFO - 0.600 perplexity: 312.080 speed: 18884 wps
+2018-10-22 12:28:47,276 - tensorflow - INFO - 0.700 perplexity: 311.493 speed: 18840 wps
+2018-10-22 12:29:15,015 - tensorflow - INFO - 0.800 perplexity: 311.362 speed: 18793 wps
+2018-10-22 12:29:42,588 - tensorflow - INFO - 0.900 perplexity: 310.503 speed: 18770 wps
+2018-10-22 12:30:10,276 - tensorflow - INFO - 0.999 perplexity: 310.129 speed: 18743 wps
+2018-10-22 12:30:10,410 - tensorflow - INFO - Epoch: 6 Train Perplexity: 310.137
+2018-10-22 12:30:15,804 - tensorflow - INFO - Epoch: 6 Valid Perplexity: 432.667
+2018-10-22 12:30:17,319 - tensorflow - INFO - Model saved in path: save/phrase_len3_adapt_cs/model.ckpt-76908
+2018-10-22 12:30:17,321 - tensorflow - INFO - Epoch: 7 Learning rate: 0.125
+2018-10-22 12:30:17,361 - tensorflow - INFO - 0.000 perplexity: 377.581 speed: 20275 wps
+2018-10-22 12:30:45,127 - tensorflow - INFO - 0.100 perplexity: 305.199 speed: 18457 wps
+2018-10-22 12:31:12,601 - tensorflow - INFO - 0.200 perplexity: 305.083 speed: 18553 wps
+2018-10-22 12:31:40,382 - tensorflow - INFO - 0.300 perplexity: 304.905 speed: 18517 wps
+2018-10-22 12:32:07,946 - tensorflow - INFO - 0.400 perplexity: 303.934 speed: 18535 wps
+2018-10-22 12:32:35,647 - tensorflow - INFO - 0.500 perplexity: 303.632 speed: 18527 wps
+2018-10-22 12:33:03,349 - tensorflow - INFO - 0.600 perplexity: 303.679 speed: 18522 wps
+2018-10-22 12:33:30,975 - tensorflow - INFO - 0.700 perplexity: 303.355 speed: 18526 wps
+2018-10-22 12:33:58,804 - tensorflow - INFO - 0.800 perplexity: 303.035 speed: 18512 wps
+2018-10-22 12:34:26,376 - tensorflow - INFO - 0.900 perplexity: 302.802 speed: 18520 wps
+2018-10-22 12:34:54,125 - tensorflow - INFO - 0.999 perplexity: 302.434 speed: 18514 wps
+2018-10-22 12:34:54,261 - tensorflow - INFO - Epoch: 7 Train Perplexity: 302.441
+2018-10-22 12:34:59,638 - tensorflow - INFO - Epoch: 7 Valid Perplexity: 420.726
+2018-10-22 12:44:34,036 - tensorflow - INFO - Test Perplexity: 427.451
+2018-10-22 12:44:34,315 - tensorflow - INFO - Epoch: 1 Learning rate: 1.000
+2018-10-22 12:44:34,755 - tensorflow - INFO - 0.001 perplexity: 459.546 speed: 1821 wps
+2018-10-22 12:44:38,281 - tensorflow - INFO - 0.101 perplexity: 267.706 speed: 17552 wps
+2018-10-22 12:44:41,740 - tensorflow - INFO - 0.201 perplexity: 250.113 speed: 18642 wps
+2018-10-22 12:44:45,272 - tensorflow - INFO - 0.301 perplexity: 241.176 speed: 18912 wps
+2018-10-22 12:44:48,808 - tensorflow - INFO - 0.401 perplexity: 234.957 speed: 19044 wps
+2018-10-22 12:44:52,321 - tensorflow - INFO - 0.501 perplexity: 229.463 speed: 19150 wps
+2018-10-22 12:44:55,865 - tensorflow - INFO - 0.601 perplexity: 225.859 speed: 19193 wps
+2018-10-22 12:44:59,467 - tensorflow - INFO - 0.701 perplexity: 222.553 speed: 19180 wps
+2018-10-22 12:45:03,046 - tensorflow - INFO - 0.801 perplexity: 219.860 speed: 19185 wps
+2018-10-22 12:45:06,566 - tensorflow - INFO - 0.901 perplexity: 217.395 speed: 19224 wps
+2018-10-22 12:45:09,943 - tensorflow - INFO - Epoch: 1 Train Perplexity: 214.573
+2018-10-22 12:45:15,327 - tensorflow - INFO - Epoch: 1 Valid Perplexity: 218.263
+2018-10-22 12:45:15,329 - tensorflow - INFO - Epoch: 2 Learning rate: 1.000
+2018-10-22 12:45:15,372 - tensorflow - INFO - 0.001 perplexity: 212.230 speed: 18496 wps
+2018-10-22 12:45:18,964 - tensorflow - INFO - 0.101 perplexity: 178.535 speed: 19147 wps
+2018-10-22 12:45:22,567 - tensorflow - INFO - 0.201 perplexity: 177.235 speed: 19122 wps
+2018-10-22 12:45:26,131 - tensorflow - INFO - 0.301 perplexity: 177.073 speed: 19182 wps
+2018-10-22 12:45:29,611 - tensorflow - INFO - 0.401 perplexity: 177.090 speed: 19324 wps
+2018-10-22 12:45:33,160 - tensorflow - INFO - 0.501 perplexity: 176.284 speed: 19337 wps
+2018-10-22 12:45:36,694 - tensorflow - INFO - 0.601 perplexity: 176.145 speed: 19358 wps
+2018-10-22 12:45:40,265 - tensorflow - INFO - 0.701 perplexity: 175.706 speed: 19346 wps
+2018-10-22 12:45:43,758 - tensorflow - INFO - 0.801 perplexity: 175.384 speed: 19389 wps
+2018-10-22 12:45:47,276 - tensorflow - INFO - 0.901 perplexity: 175.044 speed: 19407 wps
+2018-10-22 12:45:50,746 - tensorflow - INFO - Epoch: 2 Train Perplexity: 174.293
+2018-10-22 12:45:56,124 - tensorflow - INFO - Epoch: 2 Valid Perplexity: 200.375
+2018-10-22 12:45:56,125 - tensorflow - INFO - Epoch: 3 Learning rate: 1.000
+2018-10-22 12:45:56,171 - tensorflow - INFO - 0.001 perplexity: 196.664 speed: 17735 wps
+2018-10-22 12:45:59,715 - tensorflow - INFO - 0.101 perplexity: 159.578 speed: 19389 wps
+2018-10-22 12:46:03,177 - tensorflow - INFO - 0.201 perplexity: 159.036 speed: 19627 wps
+2018-10-22 12:46:06,752 - tensorflow - INFO - 0.301 perplexity: 159.057 speed: 19499 wps
+2018-10-22 12:46:10,290 - tensorflow - INFO - 0.401 perplexity: 159.614 speed: 19486 wps
+2018-10-22 12:46:13,773 - tensorflow - INFO - 0.501 perplexity: 159.010 speed: 19538 wps
+2018-10-22 12:46:17,316 - tensorflow - INFO - 0.601 perplexity: 159.391 speed: 19518 wps
+2018-10-22 12:46:20,813 - tensorflow - INFO - 0.701 perplexity: 159.502 speed: 19540 wps
+2018-10-22 12:46:24,394 - tensorflow - INFO - 0.801 perplexity: 159.557 speed: 19499 wps
+2018-10-22 12:46:27,903 - tensorflow - INFO - 0.901 perplexity: 159.432 speed: 19511 wps
+2018-10-22 12:46:31,432 - tensorflow - INFO - Epoch: 3 Train Perplexity: 158.968
+2018-10-22 12:46:36,821 - tensorflow - INFO - Epoch: 3 Valid Perplexity: 193.814
+2018-10-22 12:46:38,357 - tensorflow - INFO - Model saved in path: save/phrase_len3_adapt_cs/model.ckpt-94886
+2018-10-22 12:46:38,359 - tensorflow - INFO - Epoch: 4 Learning rate: 1.000
+2018-10-22 12:46:38,401 - tensorflow - INFO - 0.001 perplexity: 191.396 speed: 18815 wps
+2018-10-22 12:46:41,835 - tensorflow - INFO - 0.101 perplexity: 148.934 speed: 20020 wps
+2018-10-22 12:46:45,404 - tensorflow - INFO - 0.201 perplexity: 148.866 speed: 19645 wps
+2018-10-22 12:46:48,998 - tensorflow - INFO - 0.301 perplexity: 149.216 speed: 19475 wps
+2018-10-22 12:46:52,492 - tensorflow - INFO - 0.401 perplexity: 149.788 speed: 19528 wps
+2018-10-22 12:46:56,004 - tensorflow - INFO - 0.501 perplexity: 149.512 speed: 19541 wps
+2018-10-22 12:46:59,511 - tensorflow - INFO - 0.601 perplexity: 149.937 speed: 19554 wps
+2018-10-22 12:47:03,114 - tensorflow - INFO - 0.701 perplexity: 150.111 speed: 19487 wps
+2018-10-22 12:47:06,646 - tensorflow - INFO - 0.801 perplexity: 150.118 speed: 19486 wps
+2018-10-22 12:47:10,209 - tensorflow - INFO - 0.901 perplexity: 150.111 speed: 19466 wps
+2018-10-22 12:47:13,726 - tensorflow - INFO - Epoch: 4 Train Perplexity: 149.732
+2018-10-22 12:47:19,120 - tensorflow - INFO - Epoch: 4 Valid Perplexity: 187.966
+2018-10-22 12:47:19,122 - tensorflow - INFO - Epoch: 5 Learning rate: 0.500
+2018-10-22 12:47:19,164 - tensorflow - INFO - 0.001 perplexity: 180.132 speed: 19150 wps
+2018-10-22 12:47:22,708 - tensorflow - INFO - 0.101 perplexity: 137.362 speed: 19411 wps
+2018-10-22 12:47:26,103 - tensorflow - INFO - 0.201 perplexity: 136.192 speed: 19826 wps
+2018-10-22 12:47:29,684 - tensorflow - INFO - 0.301 perplexity: 135.743 speed: 19618 wps
+2018-10-22 12:47:33,210 - tensorflow - INFO - 0.401 perplexity: 135.787 speed: 19591 wps
+2018-10-22 12:47:36,778 - tensorflow - INFO - 0.501 perplexity: 135.172 speed: 19529 wps
+2018-10-22 12:47:40,338 - tensorflow - INFO - 0.601 perplexity: 134.895 speed: 19495 wps
+2018-10-22 12:47:43,856 - tensorflow - INFO - 0.701 perplexity: 134.752 speed: 19504 wps
+2018-10-22 12:47:47,387 - tensorflow - INFO - 0.801 perplexity: 134.446 speed: 19501 wps
+2018-10-22 12:47:50,967 - tensorflow - INFO - 0.901 perplexity: 134.082 speed: 19469 wps
+2018-10-22 12:47:54,416 - tensorflow - INFO - Epoch: 5 Train Perplexity: 133.601
+2018-10-22 12:47:59,683 - tensorflow - INFO - Epoch: 5 Valid Perplexity: 178.831
+2018-10-22 12:47:59,685 - tensorflow - INFO - Epoch: 6 Learning rate: 0.250
+2018-10-22 12:47:59,730 - tensorflow - INFO - 0.001 perplexity: 157.461 speed: 17894 wps
+2018-10-22 12:48:03,286 - tensorflow - INFO - 0.101 perplexity: 127.372 speed: 19332 wps
+2018-10-22 12:48:06,794 - tensorflow - INFO - 0.201 perplexity: 126.595 speed: 19469 wps
+2018-10-22 12:48:10,390 - tensorflow - INFO - 0.301 perplexity: 126.263 speed: 19355 wps
+2018-10-22 12:48:13,929 - tensorflow - INFO - 0.401 perplexity: 126.473 speed: 19377 wps
+2018-10-22 12:48:17,458 - tensorflow - INFO - 0.501 perplexity: 125.770 speed: 19400 wps
+2018-10-22 12:48:20,953 - tensorflow - INFO - 0.601 perplexity: 125.690 speed: 19448 wps
+2018-10-22 12:48:24,383 - tensorflow - INFO - 0.701 perplexity: 125.460 speed: 19532 wps
+2018-10-22 12:48:27,907 - tensorflow - INFO - 0.801 perplexity: 125.129 speed: 19531 wps
+2018-10-22 12:48:31,482 - tensorflow - INFO - 0.901 perplexity: 124.763 speed: 19499 wps
+2018-10-22 12:48:34,888 - tensorflow - INFO - Epoch: 6 Train Perplexity: 124.156
+2018-10-22 12:48:40,162 - tensorflow - INFO - Epoch: 6 Valid Perplexity: 174.855
+2018-10-22 12:48:41,763 - tensorflow - INFO - Model saved in path: save/phrase_len3_adapt_cs/model.ckpt-100046
+2018-10-22 12:48:41,764 - tensorflow - INFO - Epoch: 7 Learning rate: 0.125
+2018-10-22 12:48:41,797 - tensorflow - INFO - 0.001 perplexity: 148.227 speed: 24391 wps
+2018-10-22 12:48:45,246 - tensorflow - INFO - 0.101 perplexity: 121.926 speed: 19990 wps
+2018-10-22 12:48:48,782 - tensorflow - INFO - 0.201 perplexity: 121.449 speed: 19722 wps
+2018-10-22 12:48:52,292 - tensorflow - INFO - 0.301 perplexity: 120.940 speed: 19681 wps
+2018-10-22 12:48:55,818 - tensorflow - INFO - 0.401 perplexity: 121.074 speed: 19639 wps
+2018-10-22 12:48:59,279 - tensorflow - INFO - 0.501 perplexity: 120.473 speed: 19686 wps
+2018-10-22 12:49:02,792 - tensorflow - INFO - 0.601 perplexity: 120.595 speed: 19669 wps
+2018-10-22 12:49:06,262 - tensorflow - INFO - 0.701 perplexity: 120.399 speed: 19692 wps
+2018-10-22 12:49:09,741 - tensorflow - INFO - 0.801 perplexity: 120.101 speed: 19702 wps
+2018-10-22 12:49:13,223 - tensorflow - INFO - 0.901 perplexity: 119.791 speed: 19708 wps
+2018-10-22 12:49:16,742 - tensorflow - INFO - Epoch: 7 Train Perplexity: 119.210
+2018-10-22 12:49:22,036 - tensorflow - INFO - Epoch: 7 Valid Perplexity: 172.987
+2018-10-22 12:58:58,931 - tensorflow - INFO - Test Perplexity: 173.568
+2018-10-22 12:59:00,561 - tensorflow - INFO - Model saved in path: save/phrase_len3_adapt_cs/model.ckpt-101766
